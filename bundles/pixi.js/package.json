@@ -71,6 +71,6 @@
     "@pixi/text": "5.2.1",
     "@pixi/text-bitmap": "5.2.1",
     "@pixi/ticker": "5.2.1",
-    "@pixi/utils": "5.2.1"
+    "@pixi/utils": "5.3.12"
   }
 }

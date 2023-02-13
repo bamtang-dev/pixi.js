@@ -62,7 +62,7 @@
     "@pixi/particles": "5.2.1",
     "@pixi/polyfill": "5.2.1",
     "@pixi/prepare": "5.2.1",
-    "@pixi/runner": "5.2.1",
+    "@pixi/runner": "5.3.12",
     "@pixi/settings": "5.2.1",
     "@pixi/sprite": "5.2.1",
     "@pixi/sprite-animated": "5.2.1",

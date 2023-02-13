@@ -42,7 +42,7 @@
     "@pixi/app": "5.2.1",
     "@pixi/constants": "5.2.1",
     "@pixi/core": "5.2.1",
-    "@pixi/display": "5.2.1",
+    "@pixi/display": "5.3.12",
     "@pixi/extract": "5.2.1",
     "@pixi/filter-alpha": "5.2.1",
     "@pixi/filter-blur": "5.2.1",
